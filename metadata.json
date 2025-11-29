@@ -1,0 +1,9 @@
+{
+  "name": "Copy of DocNow - Healthcare App",
+  "description": "A comprehensive healthcare application featuring live doctor availability, emergency assistance, AI-powered symptom checking, and medicine ordering.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
